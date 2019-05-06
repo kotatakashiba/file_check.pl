@@ -3,8 +3,6 @@ use strict;
 use warnings;
 use Cwd 'getcwd';
 
-#my $testfile = "test.txt";
-#my $testfile = "hoge.bin";
 my $curdir = getcwd;
 
 
